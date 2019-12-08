@@ -1,0 +1,6 @@
+dependencies:
+  - appmode
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
